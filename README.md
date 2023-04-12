@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Arshdeep Singh
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning and exploring Backend Web Development
+- 🌱 I’m currently learning and exploring Backend Web Development using NodeJS
+- I am also learning about Devops and Cloud Technologies
 
 <!---
 - 💞️ I’m looking to collaborate on ...
